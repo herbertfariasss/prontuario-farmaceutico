@@ -1,0 +1,32 @@
+# Ambiente Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Banco e dados locais
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Backups
+backups/
+
+# Ambiente
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
