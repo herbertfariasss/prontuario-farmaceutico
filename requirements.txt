@@ -2,3 +2,4 @@ streamlit
 pytest
 ruff
 sqlcipher3
+argon2-cffi
